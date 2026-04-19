@@ -16,7 +16,7 @@ fairness in clinical AI, and privacy-preserving synthetic clinical data.
 
 ### 📦 R Packages on CRAN
 
-From pathogen surveillance to clinical AI fairness — four R packages that turn genomic data into decisions.
+*From pathogen surveillance to clinical AI fairness — four R packages that turn genomic data into decisions.*
 
 | Package | Status | Description |
 |---------|--------|-------------|

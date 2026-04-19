@@ -27,6 +27,12 @@ fairness in clinical AI, and privacy-preserving synthetic clinical data.
 
 ---
 
+### 📁 Portfolio
+
+Four end-to-end analyses using the packages above — variant forecasting, post-hoc fairness auditing, surveillance design, and synthetic-data release: **[cuiweig.github.io/portfolio](https://cuiweig.github.io/portfolio)** &nbsp;·&nbsp; [source](https://github.com/CuiweiG/portfolio).
+
+---
+
 ### 📝 Recent Writing
 
 - [Introducing lineagefreq: Tracking Pathogen Variant Dynamics in R](https://cuiweig.github.io/posts/2026-04-17-introducing-lineagefreq/)

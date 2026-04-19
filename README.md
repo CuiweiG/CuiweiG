@@ -1,8 +1,11 @@
 ## Hi, I'm Cuiwei 👋
 
-R package developer working on biostatistics and public health tooling.
-Current focus areas: genomic surveillance methodology, algorithmic fairness
-in clinical AI, and privacy-preserving synthetic clinical data.
+R package developer based in London. Background in mechanical engineering,
+now focused on biostatistics, data analysis, and reproducible statistical
+tooling for public health.
+
+Current research spans genomic surveillance methodology, algorithmic
+fairness in clinical AI, and privacy-preserving synthetic clinical data.
 
 [![GitHub followers](https://img.shields.io/github/followers/CuiweiG?style=flat&logo=github)](https://github.com/CuiweiG)
 [![Website](https://img.shields.io/badge/Website-cuiweig.github.io-blue)](https://cuiweig.github.io)

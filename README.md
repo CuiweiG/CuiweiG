@@ -16,12 +16,14 @@ fairness in clinical AI, and privacy-preserving synthetic clinical data.
 
 ### 📦 R Packages on CRAN
 
+From pathogen surveillance to clinical AI fairness — four R packages that turn genomic data into decisions.
+
 | Package | Status | Description |
 |---------|--------|-------------|
 | **[lineagefreq](https://github.com/CuiweiG/lineagefreq)** | [![CRAN](https://www.r-pkg.org/badges/version/lineagefreq)](https://CRAN.R-project.org/package=lineagefreq) [![downloads](https://cranlogs.r-pkg.org/badges/grand-total/lineagefreq)](https://CRAN.R-project.org/package=lineagefreq) | Pathogen lineage frequency dynamics with 5 estimation engines and CAPS calibration. [docs](https://cuiweig.github.io/lineagefreq) |
-| **[survinger](https://github.com/CuiweiG/survinger)** | [![CRAN](https://www.r-pkg.org/badges/version/survinger)](https://CRAN.R-project.org/package=survinger) [![downloads](https://cranlogs.r-pkg.org/badges/grand-total/survinger)](https://CRAN.R-project.org/package=survinger) | Design-adjusted inference for pathogen surveillance under unequal sequencing. [docs](https://cuiweig.github.io/survinger) |
 | **[clinicalfair](https://github.com/CuiweiG/clinicalfair)** | [![CRAN](https://www.r-pkg.org/badges/version/clinicalfair)](https://CRAN.R-project.org/package=clinicalfair) [![downloads](https://cranlogs.r-pkg.org/badges/grand-total/clinicalfair)](https://CRAN.R-project.org/package=clinicalfair) | Post-hoc algorithmic fairness auditing for clinical prediction models. [docs](https://cuiweig.github.io/clinicalfair) |
 | **[syntheticdata](https://github.com/CuiweiG/syntheticdata)** | [![CRAN](https://www.r-pkg.org/badges/version/syntheticdata)](https://CRAN.R-project.org/package=syntheticdata) [![downloads](https://cranlogs.r-pkg.org/badges/grand-total/syntheticdata)](https://CRAN.R-project.org/package=syntheticdata) | Synthetic clinical data generation with integrated privacy validation. [docs](https://cuiweig.github.io/syntheticdata) |
+| **[survinger](https://github.com/CuiweiG/survinger)** | [![CRAN](https://www.r-pkg.org/badges/version/survinger)](https://CRAN.R-project.org/package=survinger) [![downloads](https://cranlogs.r-pkg.org/badges/grand-total/survinger)](https://CRAN.R-project.org/package=survinger) | Design-adjusted inference for pathogen surveillance under unequal sequencing. [docs](https://cuiweig.github.io/survinger) |
 
 ---
 
